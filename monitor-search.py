@@ -5,10 +5,6 @@ import time
 import smtplib
 
 """
-So I knew nothing about python at all and wrote this after about two days of research so
-sorry if anything is done poorly. Feel free to optimize however you'd like and change anything up.
-Most of the values in this script were hard coded and just determined from looking at the site source.
-
 This is just a quick python script to scrape Acer's refurb site and send alerts when the X34 monitor 
 became available. I chose to do both email and text alerts so you can get them pretty much everywhere and
 still have quick access on the link on your PC if you just go to the email. 
